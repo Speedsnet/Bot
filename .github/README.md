@@ -30,7 +30,7 @@ GO TO [RELOAD.PY](https://github.com/Sagexdd/SAGE_MUSIC/blob/Master/DAXXMUSIC/pl
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagexdd&show_icons=true&locale=en&layout=compact" alt="Sagexdd" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=Sagexdd/SAGE_MUSIC)](https://github.com/DAXXTEAM/DAXXMUSIC/graphs/contributors)
+
 
 ### Contact :
 <a href="https://t.me/sage_bot_support"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
